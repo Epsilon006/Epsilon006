@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./epsilon006-github-cover-v2-en.png"
+       alt="EPSILON 006"
+       width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
