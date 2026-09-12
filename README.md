@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="./epsilon006-github-cover.png"
-       alt="EPSILON 006"
-       width="100%">
+  <a href="https://epsilon006.github.io" title="Enter the interactive rainspace">
+    <img src="./epsilon006-github-cover.png"
+         alt="Enter Epsilon006 — Beyond the Rain"
+         width="100%">
+  </a>
 </p>
+
+<p align="center"><a href="https://epsilon006.github.io"><strong>Enter the rainspace ↗</strong></a></p>
 
 ## AI Agent Engineering
 
