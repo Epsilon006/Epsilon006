@@ -1,44 +1,28 @@
+<a href="https://epsilon006.github.io/" title="Enter my personal space — Beyond the Rain">
+  <img src="./profile-entrance.png" alt="Beyond the Rain — Enter my personal space" width="100%">
+</a>
+
 <p align="center">
-  <a href="https://epsilon006.github.io" title="Enter the interactive rainspace">
-    <img src="./epsilon006-github-cover.png"
-         alt="Enter Epsilon006 — Beyond the Rain"
-         width="100%">
-  </a>
+  <a href="https://epsilon006.github.io/"><strong>Enter my personal space ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Epsilon006?tab=repositories">Browse repositories</a>
 </p>
 
-<p align="center"><a href="https://epsilon006.github.io"><strong>Enter the rainspace ↗</strong></a></p>
+---
 
 ## AI Agent Engineering
 
 Building reliable agent systems and exploring the infrastructure behind long-running AI applications.
 
-**Focus**
-
+**Focus**  
 Agent Runtime · Execution Persistence · Human-in-the-Loop · Tool Orchestration · Multi-Agent Systems · Browser Automation
 
-**Tech**
-
+**Tech**  
 Python · LangGraph · Deep Agents · SSE · REST APIs · Git
 
-**Exploring**
-
+**Exploring**  
 MCP · Agent Protocols · Long-Running Agents · AI Infrastructure
 
 ---
 
 Open source · Agent infrastructure · Developer tooling
-
-<!--
-**Epsilon006/Epsilon006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
