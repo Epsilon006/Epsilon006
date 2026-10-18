@@ -10,23 +10,21 @@
 
 ---
 
-## Hi, I'm Alpinist
+## AI Agent Systems & Developer Infrastructure
 
-Curious about how things work — and how to make them a little better.
+Focused on agent runtime architecture, tool orchestration, and the infrastructure supporting long-running AI applications.
 
-### Currently exploring
+### Technical Interests
 
-- **AI agents** — tools, memory, and the systems that connect them.
-- **Python & developer tools** — small experiments, clearer code, and useful workflows.
-- **Interactive experiences** — the meeting point of technology, atmosphere, and design.
+- **Agent systems:** execution lifecycle, state persistence, and human-in-the-loop workflows.
+- **Protocols & integration:** MCP, REST APIs, and event streaming.
+- **Developer infrastructure:** observability, automated testing, and workflow automation.
 
-### My approach
+### Engineering Approach
 
-Read the source. Ask questions. Try small things. Keep learning.
+Clear interfaces, explicit state management, and reproducible validation.
 
----
+### Technologies
 
-<p align="center">
-  <em>A quiet corner for curiosity, experiments, and things still taking shape.</em>
-</p>
+Python · LangGraph · Deep Agents · SSE · REST APIs · Git
 
